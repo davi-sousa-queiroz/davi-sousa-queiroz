@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Davi Queiroz.</h1>
 <h3 align="center">Future Full-Stack AI Engineer.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=davi-sousa-queiroz" alt="davi-sousa-queiroz" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/@davz0_0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@davz0_0" height="30" width="40" /></a>
