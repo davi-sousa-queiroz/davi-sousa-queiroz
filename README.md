@@ -49,9 +49,9 @@
 
 ## 📊 GitHub Stats
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=davi-sousa-queiroz&langs_count=4&theme=shadow_red)](https://github-stats-extended.vercel.app/api/top-langs?username=davi-sousa-queiroz&langs_count=4&theme=shadow_red)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=davi-sousa-queiroz&langs_count=4&theme=ambient_gradient)](https://github-stats-extended.vercel.app/api/top-langs?username=davi-sousa-queiroz&langs_count=4&theme=ambient_gradient)
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=davi-sousa-queiroz&include_all_commits=true&theme=shadow_red)](https://github-stats-extended.vercel.app/api?username=davi-sousa-queiroz&include_all_commits=true&theme=shadow_red)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=davi-sousa-queiroz&include_all_commits=true&theme=ambient_gradient)](https://github-stats-extended.vercel.app/api?username=davi-sousa-queiroz&include_all_commits=true&theme=ambient_gradient)
 
 ---
 
