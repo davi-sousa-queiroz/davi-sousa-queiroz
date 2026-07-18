@@ -49,14 +49,7 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=davi-sousa-queiroz&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davi-sousa-queiroz&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
-
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=davi-sousa-queiroz&langs_count=4&theme=shadow_red)](https://github-stats-extended.vercel.app/api/top-langs?username=davi-sousa-queiroz&langs_count=4&theme=shadow_red)
 ---
 
 ## 🔥 GitHub Streak
