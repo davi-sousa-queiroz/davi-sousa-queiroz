@@ -61,11 +61,7 @@
 
 ## 🔥 GitHub Streak
 
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=davi-sousa-queiroz&theme=github-dark&hide_border=true"/>
-
-</p>
+p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=davi-sousa-queiroz&" alt="davi-sousa-queiroz" /></p>
 
 ---
 
