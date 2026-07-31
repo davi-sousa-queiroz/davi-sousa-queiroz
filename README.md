@@ -21,11 +21,15 @@
 - ⬜ TypeScript
 - ⬜ Computer Science Fundamentals
 - ⬜ Django
+- ⬜️ REST APIs
 - ⬜ PostgreSQL
-- ⬜ Docker
 - ⬜ Linux
+- ⬜ Docker
+- ⬜️ AWS
+- ⬜️ FastAPI
 - ⬜ React
 - ⬜ Tailwind CSS
+- ⬜️ Authentication
 - ⬜ AI Engineering
 
 ---
