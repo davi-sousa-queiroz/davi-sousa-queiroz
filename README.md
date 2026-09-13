@@ -20,13 +20,13 @@
 - 🔄 JavaScript
 - ⬜ TypeScript
 - ⬜ Computer Science Fundamentals
+- ⬜️ FastAPI
 - ⬜ Django
 - ⬜️ REST APIs
 - ⬜ PostgreSQL
 - ⬜ Linux
 - ⬜ Docker
 - ⬜️ AWS
-- ⬜️ FastAPI
 - ⬜ React
 - ⬜ Tailwind CSS
 - ⬜️ Authentication
