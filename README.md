@@ -18,18 +18,18 @@
 - ✅ HTML
 - ✅ CSS
 - 🔄 JavaScript
-- ⬜ TypeScript
 - ⬜ Computer Science Fundamentals
-- ⬜️ FastAPI
-- ⬜ Django
-- ⬜️ REST APIs
-- ⬜ PostgreSQL
-- ⬜ Linux
-- ⬜ Docker
-- ⬜️ AWS
+- ⬜ TypeScript
 - ⬜ React
 - ⬜ Tailwind CSS
-- ⬜️ Authentication
+- ⬜ PostgreSQL
+- ⬜ FastAPI
+- ⬜ Django
+- ⬜ REST APIs
+- ⬜ Authentication
+- ⬜ Linux
+- ⬜ Docker
+- ⬜ AWS
 - ⬜ AI Engineering
 
 ---
