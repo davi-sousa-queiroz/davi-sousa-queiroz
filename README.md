@@ -18,9 +18,9 @@
 - ✅ HTML
 - ✅ CSS
 - 🔄 JavaScript
-- ⬜ Tailwind CSS
 - ⬜ React
 - ⬜ TypeScript
+- ⬜ Tailwind CSS
 - ⬜ PostgreSQL
 - ⬜ FastAPI
 - ⬜ REST APIs
