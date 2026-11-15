@@ -74,16 +74,6 @@
 
 ---
 
-## 🎯 2026 Goals
-
-- Complete JavaScript
-- Learn TypeScript
-- Build full-stack web applications
-- Contribute to open source
-- Grow a strong GitHub portfolio
-
----
-
 ## 📫 Connect
 
 <p align="left">
