@@ -20,11 +20,11 @@
 - 🔄 JavaScript
 - ⬜ React
 - ⬜ TypeScript
-- ⬜ Tailwind CSS
 - ⬜ PostgreSQL
 - ⬜ FastAPI
 - ⬜ REST APIs
 - ⬜ Authentication
+- ⬜ Tailwind CSS
 - ⬜ Linux
 - ⬜ Docker
 - ⬜ AWS
