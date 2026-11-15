@@ -17,8 +17,8 @@
 - ✅ Python
 - ✅ HTML
 - ✅ CSS
-- 🔄 JavaScript
-- ⬜ React
+- ✅ JavaScript
+- 🔄 React
 - ⬜ TypeScript
 - ⬜ PostgreSQL
 - ⬜ FastAPI
